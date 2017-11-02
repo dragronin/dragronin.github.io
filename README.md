@@ -1,2 +1,2 @@
-# DavidDotCom
-david's website!!
+# davidDotCom
+David's website
